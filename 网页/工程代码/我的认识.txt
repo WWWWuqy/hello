@@ -1,0 +1,26 @@
+<html>
+  <head>
+     <title>我的认识</title>  
+  </head>
+     <body background="img/我的认识背景.jpg">
+     <h1><p align="center"><font color="white" face="楷体">我的认识</font></p></h1>
+        <hr size="3px" color ="white">
+        <center>&nbsp&nbsp<a href="首页.html">首页</a>
+         &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="学习资料.html">学习资料</a>
+         &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="课程关系.html">课程关系</a>
+         &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="我的认识.html">我的认识</a>
+         &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="学业规划.html">学业规划</a></center>
+         <br/>
+         <br/>
+         <div style="color:#FFFFFF" align="center">
+           <p>很多人一听说计算机专业，有些人以为是修电脑的，有些人以为是编程的。</p>
+            <p>计算机专业不是修电脑的，也不仅仅是编程。计算机专业全称计算机科学与</p>
+            <p>技术，重点应落在科学上，而非技术，编程更多体现其技术的一部分，技术</p>
+             <p> 是容易学的，而科学是不易学的。程序只要会了语法，谁都会写，而为解决</p>
+             <p>实际问题设计一个可实现的模型，需要我们有很好的理论基础，离散数学、</p>
+             <p>概率统计与数理分析、数据结构与算法、算法设计与分析等课程的意义也就</p>
+             <p>在于此。同时，我们也要重视硬件的学习，要能掌握电路的基本理论，掌握</p> 
+             <p>分析和设计电子设备的基本能力。</p>
+         </div>
+	 </body>
+</html>
