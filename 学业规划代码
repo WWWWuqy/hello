@@ -1,0 +1,29 @@
+
+<html>
+  <head>
+     <title>学业规划</title> 
+  </head>
+     <body>
+      <body background="img/学业规划背景.jpg" >
+        <h1><p align="center"><font color="white" face="楷体">学业规划</font></p></h1>
+        <hr size="3px" color ="white">
+        <center>&nbsp&nbsp<a href="首页.html">首页</a>
+        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="学习资料.html">学习资料</a>
+        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="课程关系.html">课程关系</a>
+        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="我的认识.html">我的认识</a>
+        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="学业规划.html">学业规划</a></center>
+       <br/>
+       <br/>
+       <div align="center">
+       <table>
+       <tr><td>1.认真完成学业，努力提升自己的成绩，希望能得到保研名额</td></tr>
+       <tr><td>2.准备CET6考试，在大三前将成绩提升到550分以上</td></tr>
+       <tr><td>3.在寒暑假参加社会实践，进行志愿活动，锻炼自己的能力，为社会做出一点贡献</td></tr>
+       <tr><td>4.大四前多参加一些学科竞赛，如腾飞杯，数模竞赛等</td></tr>
+       <tr><td>5.课外学习一些计算机方面相关知识，提升自己的能力</td></tr>
+       <tr><td>6.大四时参加一些实习，积累一些社会经验</td></tr>
+     </table>
+     </div>
+     </body>
+
+</html>
