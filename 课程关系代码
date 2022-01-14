@@ -1,0 +1,18 @@
+<html>
+  <head>
+     <title>课程关系</title> 
+  </head>
+     <body>
+      <body background="img/课程关系背景.jpg" >
+        <h1><p align="center"><font color="white" face="楷体">课程关系</font></p></h1>
+        <hr size="3px" color ="white">
+        <center>&nbsp&nbsp<a href="首页.html">首页</a>
+        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="学习资料.html">学习资料</a>
+        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="课程关系.html">课程关系</a>
+        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="我的认识.html">我的认识</a>
+        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="学业规划.html">学业规划</a></center>
+       <br/>
+       <div align="center"><img src="img/课程关系图.jpg" width="903px" height="756px"></div>   
+     </body>
+
+</html>
